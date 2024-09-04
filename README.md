@@ -1,6 +1,6 @@
 # Python_Week_2_Assignment.py
 
-***Create an empty list called my_list.
+Create an empty list called my_list.
 
 Append the following elements to my_list: 10, 20, 30, 40.
 
@@ -12,4 +12,4 @@ Remove the last element from my_list.
 
 Sort my_list in ascending order.
 
-Find and print the index of the value 30 in my_list.***
+Find and print the index of the value 30 in my_list.
